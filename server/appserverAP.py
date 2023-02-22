@@ -1,7 +1,3 @@
-#!/usr/bin/env/python
-# File name   : appserverAP.py
-# Author      : William
-# Date        : 2019/10/28
 
 import socket
 import threading
