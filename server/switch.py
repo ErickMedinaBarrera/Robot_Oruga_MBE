@@ -1,9 +1,4 @@
-#!/usr/bin/env/python
-# File name   : switch.py
-# Production  : HAT
-# Website     : www.gewbot.com
-# Author      : William
-# Date        : 2018/08/22
+
 
 import RPi.GPIO as GPIO
 
