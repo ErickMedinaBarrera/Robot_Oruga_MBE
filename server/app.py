@@ -75,5 +75,5 @@ class webapp:
         fps_threading=threading.Thread(target=self.thread)         #Define a thread for FPV and OpenCV
         fps_threading.setDaemon(False)                             #'True' means it is a front thread,it would close when the mainloop() closes
         fps_threading.start()                                     #Thread starts
-
+ 
 
