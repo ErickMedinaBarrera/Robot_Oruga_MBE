@@ -1,9 +1,4 @@
-#!/usr/bin/python3
-# File name   : findline.py
-# Description : line tracking 
-# Website     : www.gewbot.com
-# Author      : William
-# Date        : 2019/08/28
+
 import RPi.GPIO as GPIO
 import time
 import move
