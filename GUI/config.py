@@ -1,11 +1,4 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-# File name   : client.py
-# Description : client  
-# Website     : www.adeept.com
-# E-mail      : support@adeept.com
-# Author      : William
-# Date        : 2018/08/22
+
 from socket import *
 import time
 import threading as thread
