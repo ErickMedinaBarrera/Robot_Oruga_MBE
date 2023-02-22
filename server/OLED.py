@@ -1,9 +1,3 @@
-#!/usr/bin/env/python3
-# File name   : server.py
-# Description : for OLED functions
-# Website	 : www.gewbot.com
-# Author	  : William(Based on Adrian Rosebrock's OpenCV code on pyimagesearch.com)
-# Date		: 2019/08/28
 
 from luma.core.interface.serial import i2c
 from luma.core.render import canvas
