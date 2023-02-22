@@ -1,10 +1,3 @@
-#!/usr/bin/python3
-# File name   : motor.py
-# Description : Control Motors 
-# Website     : www.adeept.com
-# E-mail      : support@adeept.com
-# Author      : William
-# Date        : 2018/10/12
 
 import os
 import sys
