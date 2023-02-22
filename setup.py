@@ -1,7 +1,3 @@
-#!/usr/bin/python3
-# File name   : setup.py
-# Author      : Adeept
-# Date        : 2020/3/14
 
 import os
 import time
