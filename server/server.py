@@ -1,10 +1,3 @@
-#!/usr/bin/env/python
-# File name   : server.py
-# Production  : RaspTank
-# Website     : www.adeept.com
-# E-mail      : support@adeept.com
-# Author      : William
-# Date        : 2018/08/22
 
 import socket
 import time
