@@ -1,10 +1,4 @@
-#!/usr/bin/env/python3
-# File name   : server.py
-# Description : for FPV video and OpenCV functions
-# Website     : www.adeept.com
-# E-mail      : support@adeept.com
-# Author      : William(Based on Adrian Rosebrock's OpenCV code on pyimagesearch.com)
-# Date        : 2018/08/22
+
 
 import time
 import threading
