@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-# File name   : servo.py
-# Description : Control lights
-# Author	  : William
-# Date		: 2019/02/23
+
 import time
 import RPi.GPIO as GPIO
 import sys
